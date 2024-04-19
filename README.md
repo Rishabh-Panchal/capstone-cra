@@ -10,14 +10,5 @@ Project_Capstone_week6-7 Python Jupyter notebook contains all the models that we
 EDAv1.0 Python Jupyter notebook contains the Exploratory Data Analysis based on the PM Baseline Cost dataset <br>
 EDAv2.0 Python Jupyter notebook contains the Exploratory Data Analysis based on the OPS-PM Baseline Cost (Synthetic) dataset. <br>
 
-
-## Overview
-This project aims to revolutionize project management by
-creating a sophisticated model that predicts cost variances
-and success rates. Using advanced machine learning
-techniques and historical data, the team identifies factors
-crucial for predicting cost fluctuations and determining
-project success. By focusing on predicting cost variance
-and identifying success factors, this initiative enhances the
-accuracy of cost estimates and improves predictive
-analytics capabilities for project outcomes.
+## Project Poster
+- - - ![Capstone Poster](https://github.com/Rishabh-Panchal/capstone-cra/assets/46898535/4fc7a460-2e43-44a4-b38b-e8f722db10f4)
