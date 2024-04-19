@@ -11,4 +11,4 @@ EDAv1.0 Python Jupyter notebook contains the Exploratory Data Analysis based on 
 EDAv2.0 Python Jupyter notebook contains the Exploratory Data Analysis based on the OPS-PM Baseline Cost (Synthetic) dataset. <br>
 
 ## Project Poster
-- - - ![Capstone Poster](https://github.com/Rishabh-Panchal/capstone-cra/assets/46898535/4fc7a460-2e43-44a4-b38b-e8f722db10f4)
+- ![Capstone Poster](https://github.com/Rishabh-Panchal/capstone-cra/assets/46898535/4fc7a460-2e43-44a4-b38b-e8f722db10f4)
